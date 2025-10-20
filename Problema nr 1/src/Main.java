@@ -3,8 +3,7 @@ public class Main {
 
     public static void main(String[] args) {
         int[] grades = {29, 37, 38, 41, 85, 67};
-
-        // Create an object of your class (replace "NotenSystem" with your class name)
+        
         Noten ns = new Noten();
 
         System.out.println("Original grades: ");
